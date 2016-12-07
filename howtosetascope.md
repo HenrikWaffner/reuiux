@@ -2,6 +2,7 @@
 
 
 
+
 ## Long Term Goal
 
 - Wir wollen über ein Abo Modell selbst einen Cloud-Hosting Service anbieten, welcher sich besser mit Evermusic verwenden lässt, als die herkömmlichen Anbieter.
